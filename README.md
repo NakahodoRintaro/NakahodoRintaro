@@ -1,4 +1,4 @@
-### Hi there 👋
+### Rintaro Nakahodo 👋
 
 ### Portfolio 🔭
 https://ds-musashino-u.github.io/personal-web-page-NakahodoRintaro/
