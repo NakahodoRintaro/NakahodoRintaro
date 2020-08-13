@@ -20,7 +20,7 @@ https://ds-musashino-u.github.io/personal-web-page-NakahodoRintaro/
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NakahodoRintaro&theme=bear"/>
 </a>
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=NakahodoRintaro&repo=d3">
+  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=NakahodoRintaro&repo=d3&theme=bear">
 </a>
 
 <!--
