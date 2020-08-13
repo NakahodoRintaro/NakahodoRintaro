@@ -8,7 +8,7 @@ https://ds-musashino-u.github.io/personal-web-page-NakahodoRintaro/
   <img align="left" src="https://github-readme-stats.vercel.app/api?username=NakahodoRintaro&count_private=true&theme=bear&how_icons=true" />
 </a>
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=N#kahodoRintaro&theme=bear" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NakahodoRintaro&theme=bear"/>
 </a>
 
 <!--
