@@ -2,6 +2,14 @@
 
 ### Portfolio 🔭
 https://ds-musashino-u.github.io/personal-web-page-NakahodoRintaro/
+
+
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="left" src="https://github-readme-stats.vercel.app/api?username=NakahodoRintaro&count_private=true&theme=bear&how_icons=true" />
+</a>
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NakahodoRintaro&theme=bear" />
+</a>
 <!--
 **NakahodoRintaro/NakahodoRintaro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
