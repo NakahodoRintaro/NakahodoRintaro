@@ -1,6 +1,6 @@
 ### Rintaro Nakahodo 👋
 
-### Portfolio 🔭
+### My Portfolio 🔭
 https://ds-musashino-u.github.io/personal-web-page-NakahodoRintaro/
 
 ### The languages and systems I often use 📫
