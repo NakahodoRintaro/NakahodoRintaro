@@ -1,7 +1,7 @@
 ### Rintaro Nakahodo 👋
 
 ### My Portfolio 🔭
-https://ds-musashino-u.github.io/personal-web-page-NakahodoRintaro/
+NakahodoRintaro.github.io
 
 ### The languages and systems I often use 📫
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
