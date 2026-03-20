@@ -48,7 +48,18 @@
 ## Pinned
 
 <p align="center">
+  <a href="https://github.com/NakahodoRintaro/MuseMorphose">
+    <img src="https://socialify.git.ci/NakahodoRintaro/MuseMorphose/image?description=1&language=1&theme=Dark" width="400" />
+  </a>
+  <a href="https://github.com/NakahodoRintaro/SUUMOFinder">
+    <img src="https://socialify.git.ci/NakahodoRintaro/SUUMOFinder/image?description=1&language=1&theme=Dark" width="400" />
+  </a>
+</p>
+<p align="center">
+  <a href="https://github.com/NakahodoRintaro/tfidf-app">
+    <img src="https://socialify.git.ci/NakahodoRintaro/tfidf-app/image?description=1&language=1&theme=Dark" width="400" />
+  </a>
   <a href="https://github.com/NakahodoRintaro/d3">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=NakahodoRintaro&repo=d3&theme=tokyo-night&hide_border=true&cache_seconds=1800" />
+    <img src="https://socialify.git.ci/NakahodoRintaro/d3/image?description=1&language=1&theme=Dark" width="400" />
   </a>
 </p>
