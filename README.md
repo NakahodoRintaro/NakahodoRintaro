@@ -35,8 +35,8 @@
 ## GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=NakahodoRintaro&show_icons=true&theme=tokyo-night&hide_border=true" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NakahodoRintaro&layout=compact&theme=tokyo-night&hide_border=true" height="165" />
+  <img src="https://img.shields.io/github/followers/NakahodoRintaro?style=for-the-badge&logo=github&color=181717&label=Followers" />
+  <img src="https://img.shields.io/github/stars/NakahodoRintaro?style=for-the-badge&logo=github&color=181717&label=Stars" />
 </p>
 
 <p align="center">
